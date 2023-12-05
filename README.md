@@ -1,7 +1,7 @@
-👋 Hello,
+Hello👋,
 
 I am Ekta Khurana, a data analyst with experience of working various tools which helps in turning the data into information and then information into business. 
-My Data Analysis task gave me exposure to various technologies/tools like Qlik Sense, Power BI , SAP , BigQuery, Excel , Google sheets, Jira and Python.
+My professional assignments gave me exposure to various technologies/tools like Qlik Sense, Power BI , SAP , BigQuery, Excel , Google sheets, Jira and Python.
 Some of these projects are based on work I've done as a data analyst, while others are based on tutorials or textbook examples. When posting a script based on a tutorial, I've included a note about it.
 
 <!--
